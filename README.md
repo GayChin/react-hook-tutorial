@@ -1,4 +1,4 @@
-## Basic react hook demo
+## Basic React Hooks Demo
 
 To see the demo, please go to src/App.js and uncomment the component with the name of hook that you want to learn. 
 For example, if I would like see the demo for useState() hook, I will uncomment the UseState Component
