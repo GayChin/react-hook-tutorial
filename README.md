@@ -5,7 +5,15 @@ For example, if I would like see the demo for useState() hook, I will uncomment 
 
 ![image](https://user-images.githubusercontent.com/56284497/153421729-9d67b68e-99b6-4259-b004-d0812ae15ba3.png)
 
-And then run 
+For explnation of the demo please refer to:
+
+https://docs.google.com/document/d/1-1dwjRFeqqXk7G3-_h1uTCRwiIzE2MLicrj5MtJ6L0U/edit?usp=sharing
+
+Run 
+`npm install`
+to install required dependencies from package.json
+
+Run
 `npm start`
 to start the project
 
