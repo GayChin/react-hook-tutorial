@@ -1,24 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import UseState from "./Hooks/UseState";
+import UseEffect from "./Hooks/UseEffect";
+import UseContext from "./Hooks/UseContext";
+import PropDrilling from "./Hooks/PropDrilling";
+import UseRef1 from "./Hooks/UseRef1";
 
+//Uncomment the hook that you want to learn, to see the demo
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <div className="App">
+        <header className="App-header">
+          {/* <UseState/> */}
+          {/* <UseEffect /> */}
+          {/* <PropDrilling/> */}
+          {/* <UseContext/> */}
+          <UseRef1/>
+        </header>
+      </div>
   );
 }
 
